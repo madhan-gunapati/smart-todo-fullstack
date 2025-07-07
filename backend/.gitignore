@@ -1,0 +1,38 @@
+# Virtual Environment
+env/
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Django migrations
+**/migrations/
+**/migrations/*.py[cod]
+**/migrations/__pycache__/
+
+# Logs and temporary files
+*.log
+*.pot
+*.mo
+*.swp
+
+# Static and media
+media/
+staticfiles/
+static/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
