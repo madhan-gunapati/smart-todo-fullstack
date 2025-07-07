@@ -15,3 +15,12 @@ root/
 │ ├── package.json
 │ └── ...
 
+instructions to run the FE application:
+instructions to run the BE application:
+
+API documentation:
+
+Screenshots of the UI :
+
+
+sample data to test:
