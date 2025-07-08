@@ -44,13 +44,13 @@ root/                                   </br>
 
 ## Instructions to run the FE application:
 
->clone the Repo
->change to the Front End folder
-> run 'npm install' 
-> you will see a package.lock.json file
-> run npm run dev
-> you can access the application from http://localhost:3000
-> OR you can access the Hosted Application at https://smart-todo-pied.vercel.app/
+->clone the Repo </br>
+->change to the Front End folder </br>
+-> run 'npm install' </br>
+-> you will see a package.lock.json file </br>
+-> run npm run dev </br>
+-> you can access the application from http://localhost:3000 </br>
+-> you can access the Hosted Application at https://smart-todo-pied.vercel.app/ </br>
 
 ## Instructions to run the BE application:
 
