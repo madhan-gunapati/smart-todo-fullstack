@@ -83,12 +83,19 @@ url :-> http://localhost:8000/
 
 End point : Respective handler Function  :-> It's Functionality</br>
 
+
+
 'create'   : post_items  :-> useful to create new TODO task and save in the DB </br>
+
 'modify'   : modify_with_ai :-> takes in context and makes changes to already stored tasks </br>
-'tasks'    : fetch_saved_tasks 
-'contexts' : fetch_saved_contexts
-'suggest'  : suggest_with_ai
-'change'   : change_task
+
+'tasks'    : fetch_saved_tasks :-> runs on first mount, useful to fetch all the created tasks <br/>
+
+'contexts' : fetch_saved_contexts :-> runs on first mount of site , used to fetch all the saved contexts <br/>
+
+'suggest'  : suggest_with_ai :-> used when creating a new task, based on the context input , gives suggestions to change title, desc, due date etc.. etc </br>
+
+'change'   : change_task :-> useful to edit and modify already saved task </br>
 
 
 
