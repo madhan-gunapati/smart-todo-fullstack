@@ -70,7 +70,11 @@ root/                                   </br>
 -> check the server response from postman  <br/>
 request : POST http://localhost:8000/tasks </br>
 
-you will get the saved tasks
+you will get the saved tasks <br/>
+
+-> make sure LM studio server is running at http://127.0.0.1:1234 to get the AI suggestions
+
+
 
 # API documentation:
 
