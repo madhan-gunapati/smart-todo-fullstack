@@ -81,11 +81,11 @@ you will get the saved tasks <br/>
 
 url :-> http://localhost:8000/
 
-End point : Respective handler Function  : It's Functionality</br>
+End point : Respective handler Function  :-> It's Functionality</br>
 
-'create'   : post_items  : useful to create new TODO task and save in the DB
-'modify'   : modify_with_ai
-'tasks'    : fetch_saved_tasks
+'create'   : post_items  :-> useful to create new TODO task and save in the DB </br>
+'modify'   : modify_with_ai :-> takes in context and makes changes to already stored tasks </br>
+'tasks'    : fetch_saved_tasks 
 'contexts' : fetch_saved_contexts
 'suggest'  : suggest_with_ai
 'change'   : change_task
