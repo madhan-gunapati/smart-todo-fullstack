@@ -67,6 +67,10 @@ root/                                   </br>
 -> python3 manage.py makemigrations (make the migration files ready) </br>
 -> python3 manage.py migrate (run the migrations to make changes in the database) </br>
 -> python3 manage.py runserver      (run the server) </br>
+-> check the server response from postman  <br/>
+request : POST http://localhost:8000/tasks </br>
+
+you will get the saved tasks
 
 # API documentation:
 
