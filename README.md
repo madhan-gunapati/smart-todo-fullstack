@@ -1,6 +1,7 @@
 This is a Smart Todo FullStack Application Repo.
 - Frontend: [Next.js]
 - Backend: [Django]
+- DB : Supabase (postgresql)
 - API Communication: REST 
 - AI usage : LM stdio Mathstral 7B 
 
@@ -78,6 +79,16 @@ you will get the saved tasks <br/>
 
 # API documentation:
 
+url :-> http://localhost:8000/
+
+End point : Respective handler Function  : It's Functionality</br>
+
+'create'   : post_items  : useful to create new TODO task and save in the DB
+'modify'   : modify_with_ai
+'tasks'    : fetch_saved_tasks
+'contexts' : fetch_saved_contexts
+'suggest'  : suggest_with_ai
+'change'   : change_task
 
 
 
