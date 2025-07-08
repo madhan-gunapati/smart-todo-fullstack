@@ -33,21 +33,22 @@ This is a Smart Todo FullStack Application Repo.
 
 ## 🗂️ Project Structure
 
-root/
-├── backend/ # Django project directory
-│ 
-├── frontend/ # Next.js project directory
-│__ assets
+root/                                   </br>
+├── backend/ # Django project directory </br>
+│                                       </br>
+├── frontend/ # Next.js project directory </br>
+│__ assets                                </br>
 
 
 
 
-instructions to run the FE application:
-instructions to run the BE application:
+## Instructions to run the FE application:
 
-API documentation:
+## Instructions to run the BE application:
+
+# API documentation:
 
 
 
 
-sample data to test:
+# Sample data to test:
