@@ -1,9 +1,15 @@
 This is a Smart Todo FullStack Application Repo.
-- Frontend: [Next.js](https://nextjs.org/)
-- Backend: [Django](https://www.djangoproject.com/)
-- API Communication: REST (via Django REST Framework)
+- Frontend: [Next.js]
+- Backend: [Django]
+- API Communication: REST 
 
 ---
+
+
+## Screenshots of the UI 
+
+![Dashboard Screenshot](./assets/dashboard-empty.png)
+
 
 ## 🗂️ Project Structure
 
@@ -15,12 +21,15 @@ root/
 │ ├── package.json
 │ └── ...
 
+
+
+
 instructions to run the FE application:
 instructions to run the BE application:
 
 API documentation:
 
-Screenshots of the UI :
+
 
 
 sample data to test:
