@@ -54,6 +54,20 @@ root/                                   </br>
 
 ## Instructions to run the BE application:
 
+->clone the repo </br>
+-> cd backend (go to backend folder) </br>
+->  pip3 install -r requirements.txt (install the necessary packages) </br>
+-> add the .env file to add db login creds. </br>
+    DB_NAME=postgres </br>
+    DB_USER=your user-name </br>
+    DB_PASSWORD=yourpassword </br>
+    DB_HOST=yourhost </br>
+    DB_PORT=6543 </br>
+
+-> python3 manage.py makemigrations (make the migration files ready) </br>
+-> python3 manage.py migrate (run the migrations to make changes in the database) </br>
+-> python3 manage.py runserver      (run the server) </br>
+
 # API documentation:
 
 
